@@ -1,0 +1,113 @@
+.ber{
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: black;
+}
+
+
+header ul li{float: left;
+    padding-left: 120px;
+    list-style: none;
+    color: white;
+    
+}
+
+
+h1{
+    width:400px;
+    height:20px;
+    border-left: 5px solid red;
+    background-color: gainsboro;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    font-size: 20px;
+    
+}
+
+form{
+    background-color: gainsboro;
+    border:2px solid gray;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+form div{
+    padding: 15px;
+}
+
+.text,textarea,dropdown{
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color: #999;
+    background: #fff;
+}
+
+.submit{
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: 2px solid gray;
+    
+}
+
+.kiji{
+    border:2px solid gray;
+    margin-top: 50px;
+    background-color:gainsboro;
+    
+}
+
+h3{
+    border-bottom: 1px solid #bfbfbf;
+    margin: 10px;
+}
+
+.contents{
+    margin-top: 15px;
+    padding: 10px;
+}
+
+.handlename{
+    font-size: 10px;
+}
+main{
+    clear:both;
+}
+
+.main-container{
+    width:95%;
+    margin:0 auto;
+    
+}
+
+.left{
+    float:left;
+    width:65%;
+    height:1300px;
+    padding-right: 40px;
+}
+.right{
+    float:left;
+    width:25%;
+    height:1300px;
+}
+
+h2{
+    border-bottom: 1px solid #bfbfbf;
+}
+
+
+footer{clear: left;
+    width:100%;
+    height: 60px;
+    bottom: 0;
+    left: 0px;
+    text-align: center;
+    line-height: 60px;
+    background-color: black;
+    color: white;
+}
